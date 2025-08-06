@@ -1,4 +1,4 @@
-# StudentFeedbackCollector
+# Student Feedback Collector
 
 A beginner-friendly Java Servlet project that demonstrates how to handle **GET** and **POST** requests. Users can submit their name and feedback using a simple HTML form. The server processes the data and responds dynamically using Java Servlets.
 
