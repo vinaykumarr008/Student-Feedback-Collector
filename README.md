@@ -11,8 +11,10 @@ A beginner-friendly Java Servlet project that demonstrates how to handle **GET**
 
 ## 📸 Screenshot
 
-![Form Screenshot](https://i.imgur.com/your-form-image.png)  
-*(Optional: Upload screenshot and update URL)*
+![Form Screenshot](form.png)  
+![Feedback Screenshot](feedback.png)  
+
+
 
 ## 🧰 Tech Stack
 
